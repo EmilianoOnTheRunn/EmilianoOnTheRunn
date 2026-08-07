@@ -1,7 +1,7 @@
 <h1 align="center">Emiliano Ruiz Gomez</h1>
 
 <p align="center">
-  <strong>Applied AI product engineer building local-first software, agent systems, and practical automation.</strong>
+  <strong>Applied product engineer building local-first software, agentic systems, and practical automation.</strong>
 </p>
 
 <p align="center">
